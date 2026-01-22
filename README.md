@@ -284,15 +284,6 @@ If these tools helped organize your LaunchBox collection, please:
 - 💡 Suggest features
 - 📢 Share with the community
 
----
-
-## 📸 Screenshots
-
-### ROM Image Renamer
-![Image Renamer Screenshot](screenshots/image_renamer.png)
-
-### ROM Video Renamer
-![Video Renamer Screenshot](screenshots/video_renamer.png)
 
 ---
 
